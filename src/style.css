@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(171, 224, 171);
+}
+.navigation-links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.homepage-link{
+    background: green;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    color: white;
+}
+
+.contact-link {
+    background: green;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    color: white;
+}
+
+.photo-link {
+    background: green;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    color: white;
+}
